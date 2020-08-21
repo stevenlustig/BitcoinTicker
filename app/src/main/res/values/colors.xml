@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F7931A</color>
+    <color name="colorPrimaryDark">#C57100</color>
+    <color name="colorAccent">#F4DF77</color>
+
+    <color name="main_status_ok">@android:color/transparent</color>
+    <color name="main_status_error">#ff0000</color>
+</resources>

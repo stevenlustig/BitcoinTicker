@@ -1,0 +1,21 @@
+<resources>
+    <string name="launcher_name">Ticker</string>
+    <string name="app_name">Bitcoin Ticker</string>
+
+    <string name="main_status_initializing">Initializing..</string>
+    <string name="main_status_OK">Status: OK</string>
+    <string name="main_status_error">Error: %s</string>
+    <string name="main_currentRate_sample">$0.00</string>
+    <string name="main_startStopService_start">Start Service</string>
+    <string name="main_startStopService_stop">Stop Service</string>
+    <string name="main_alertRateLabel">Background alerts for fluctuations of more than:</string>
+    <string name="main_alertRateSymbol">$</string>
+
+    <string name="notification_channel_name">Default</string>
+    <string name="notification_channel_description">Displays BTC rate changes</string>
+    <string name="notification_title">Rate Change</string>
+    <string name="notification_message">The price of BTC has changed by %s</string>
+
+    <string name="permissions_required_title">Permissions Required</string>
+    <string name="permissions_required_message">The following permissions are required in order to continue:\n\n%s\n\nWould you like to enable these in preferences?</string>
+</resources>
